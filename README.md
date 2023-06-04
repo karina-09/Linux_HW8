@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/karina-09/linux_HW8/blob/main/Screenshot_1.png)
