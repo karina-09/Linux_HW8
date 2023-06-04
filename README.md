@@ -6,7 +6,7 @@
 Результат:
 Текст команд, которые применялись при выполнении задания. При наличии: часть конфигурационных файлов, которые решают задачу. Скриншоты результата запуска контейнеров (веб-интерфейс). Присылаем в формате текстового документа: задание и команды для решения (без вывода). Формат — PDF (один файл на все задания).
 
-![alt text](https://github.com/karina-09/linux_HW8)/blob/main/Screenshot_3.png
+![alt text](https://github.com/karina-09/linux_HW8/blob/main/Screenshot_3.png
 
 ![alt text](https://github.com/karina-09/linux_HW8/blob/main/Screenshot_1.png)
 
